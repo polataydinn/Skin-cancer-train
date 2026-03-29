@@ -1,4 +1,4 @@
-# 🧠 Cilt Kanseri Tespit Modeli — Sade ve Anlaşılır Açıklama
+# 🧠 Cilt Kanseri Tespit Modeli
 
 > Bu doküman, [train_model.py] kodunun ne yaptığını ve **%76 doğruluk oranına** nasıl ulaştığımızı, yapay zekayı hiç bilmeyen birine anlatmak için hazırlanmıştır.
 
