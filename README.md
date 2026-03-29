@@ -1,6 +1,6 @@
 # 🧠 Cilt Kanseri Tespit Modeli
 
-> Bu doküman, [train_model.py] kodunun ne yaptığını ve **%76 doğruluk oranına** nasıl ulaştığımızı, yapay zekayı hiç bilmeyen birine anlatmak için hazırlanmıştır.
+> Bu doküman, [train_model.py] kodunun ne yaptığını ve **%76 doğruluk oranına** nasıl ulaştığımızı anlatmak için hazırlanmıştır.
 
 ---
 
